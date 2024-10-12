@@ -11,7 +11,7 @@ import BackTop from "@/components/back-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Personal Resume",
+  title: "Zephyrine | Yun's portfolio",
   description: "Yun is a font-stack developer with 4 years of experience.",
 };
 
